@@ -4,6 +4,8 @@
 
 # [![MEAN Logo](http://mean.io/system/assets/img/logos/meanlogo.png)](http://mean.io/) MEAN.IO
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mgkamal/meanio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 Source for npm package meanio. meanio is a core package of the mean.io project and is used primarily to manage packages for extending functionality, for example adding a package to enable inline editable tokens.
 
